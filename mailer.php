@@ -60,7 +60,8 @@ if(isset($_POST['name']) && isset($_POST['email'])) {
     $messageus = str_replace(['{{companyname}}', '{{name}}', '{{furikana}}', '{{email}}', '{{phone}}', '{{message}}'], [$_POST['companyname'], $_POST['name'], $_POST['furikana'], $_POST['email'], $_POST['phone'], $_POST['message']], $messageus);
     $messageuser = str_replace(['{{companyname}}', '{{name}}', '{{furikana}}', '{{email}}', '{{phone}}', '{{message}}'], [$_POST['companyname'], $_POST['name'], $_POST['furikana'], $_POST['email'], $_POST['phone'], $_POST['message']], $messageuser);
     // print_r($messageuser);
-    $mail->addAddress('create2@h-info.net'); // email receiver
+    // $mail->addAddress('create2@h-info.net'); // email receiver
+    $mail->addAddress('myers@a2design.biz'); // email receiver
     //$mail->addAddress('shapoval@a2design.biz'); // email receiver
     //$mail->addAddress('luparevich@a2design.biz'); // email receiver
     // $name = $_POST['name'];
