@@ -501,7 +501,7 @@ small{
   border-radius: 8px;
   -moz-border-radius: 8px;
   -webkit-border-radius: 8px;
-  min-height: 350px;
+  min-height:470px;
 	/* box-shadow: 0 0 15px rgba(0,0,0,0.1); */
 }
 #feedback .thumb-icon {

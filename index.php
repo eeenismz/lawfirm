@@ -109,6 +109,7 @@
               <p><small>(神奈川県司法書士会)</small></p>
               <p>神奈川県医師扶助会　相談員</p>
               <p>荏原医師協同組合<small>（東京都）</small>相談員</p>
+              <p>・・・・・など</p>
             </div>
             <!-- title end -->
           </div>
@@ -123,6 +124,7 @@
                 <p>神奈川アントレプレナー起業アドバイザー</p>
                 <p>一般財団法人横浜企業経営支援財団　横浜ビジネスエキスパート（相談員）</p>
                 <p>横浜地方法務局（管内出張所）　不動産登記相談員</p>
+                <p>・・・・・など</p>
               </div>
               <!-- title end -->
             </div>
@@ -149,7 +151,7 @@
                 <img src="main/images/service-1.png" class="animate" alt="">
               </div>
               <h4>相続・</h4>
-              <h4>遺言関連業務</h4>
+              <h4>遺言に関する業務</h4>
             </div>
             <div class="btn-service-detail" id="1">詳しく見る</div>
           </div>
@@ -161,7 +163,7 @@
                 <img src="main/images/service-2.png" class="animate" alt="">
               </div>
               <h4>不動産に関する</h4>
-              <h4>登記</h4>
+              <h4>登記手続業務</h4>
             </div>
             <div class="btn-service-detail" id="2">詳しく見る</div>
           </div>
@@ -172,7 +174,7 @@
               <div class="thumb-image">
                 <img src="main/images/service-3.png" class="animate" alt="">
               </div>
-              <h4>会社・法人に関する登記</h4>
+              <h4>会社・法人に関する登記手続業務</h4>
               <h5>~ 起業家・経営者・法務ご担当の方 ~</h5>
             </div>
             <div class="btn-service-detail" id="3">詳しく見る</div>
@@ -184,7 +186,7 @@
               <div class="thumb-image">
                 <img src="main/images/service-4.png" class="animate" alt="">
               </div>
-              <h4>コンプライアンス業務</h4>
+              <h4>コンプライアンスに関する業務</h4>
               <h5>~ 経営者・起業家・法務ご担当の方 ~</h5>
             </div>
             <div class="btn-service-detail" id="4">詳しく見る</div>
@@ -213,7 +215,7 @@
         
         <!-- Section Title -->
         <div class="section-title">
-          <h3>当事務所をご利用のお客様</h3>
+          <h3>当事務所をご利用の主なお客様</h3>
         </div>
         <ul class="customersList">
           <!-- Client -->
@@ -306,12 +308,15 @@
           <div class="col-md-4 col-sm-6">
             <div class="feedback-thumb">
               <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
-              <h4>男性・60 歳代</h4>
-              <h4>不動産・贈与登記ご依頼</h4>
+              <h4>60歳代・男性</h4>
+              <h4>不動産相続登記・預金手続きご依頼</h4>
               <p class="desc">
-                定年退職を機に妻へ持ち家の贈与をしました。 先生には名義変更(登記)のことでお願いに上がりま 
-                したが、様々な問題点を事前にご説明頂きました。 下調べはしたつもりでしたが、知らなかったことも多
-                くあり、大変助かりました。
+              当初、長男として全部自分で手続しようと思っていましたが、
+              妹夫婦があれこれ言ってくるようになり、参ってしまいました。
+              そんなとき、こちらの事務所を見つけました。自分なりに
+              進めていた作業を認めていただき、泣きそうになりました。
+              妹夫婦も先生の言うことなら、と円満に手続きが終わりました。
+              ありがとうございました。
               </p>
             </div>
           </div>
@@ -320,11 +325,14 @@
           <div class="col-md-4 col-sm-6">
             <div class="feedback-thumb">
               <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
-              <h4>女性・70 歳代</h4>
-              <h4>不動産・相続登記ご依頼</h4>
+              <h4>80歳代・女性</h4>
+              <h4>不動産相続登記・預金手続きご依頼</h4>
               <p class="desc">
-                主人が急死したので、住居の相続登記をお願いしま した。財産のことは全て主人任せだったので、
-                本当に 何もわからず心配でしたが、いつも丁寧に教えていただいて、大変心強く思いました。
+              主人が亡くなりましたが、私たちには子供がおらず、どのように
+              相続の手続を進めていくのかよくわかりませんでした。
+              姪っ子がインターネットでこちらを探してくれて、依頼しました。
+              主人の兄弟姉妹や親族も関係する複雑な相続でしたが無事手続きが済み、
+              安心しました。
               </p>
             </div>
           </div>
@@ -333,11 +341,12 @@
           <div class="col-md-4 col-sm-6">
             <div class="feedback-thumb">
               <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
-              <h4>男性・40 歳代</h4>
-              <h4>不動産・抵当権抹消登記ご依頼</h4>
+              <h4>90歳代・男性</h4>
+              <h4>遺言のご相談</h4>
               <p class="desc">
-                住宅ローンの返済が終わり、抵当権の抹消登記を依 頼しました。日中仕事で忙しい私ですが、
-                経過などを きちんと連絡下さったので、安心してお任せできまし た。
+              長年のもやもやしたものが晴れ、心より感謝申し上げます。
+              私も遺言を書いた方がいいのかなどを相談しました。
+              最近の遺言についてもご教授いただきました。
               </p>
             </div>
           </div>
@@ -348,11 +357,11 @@
           <div class="col-md-4 col-sm-6">
             <div class="feedback-thumb">
               <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
-              <h4>会社経営者・30 歳代</h4>
-              <h4>会社設立登記ご依頼</h4>
+              <h4>70歳代・女性</h4>
+              <h4>不動産相続登記ご依頼</h4>
               <p class="desc">
-                脱サラして、会社設立を決意。登記をお願いしました。 自分は営業に本腰を入れたかったので、
-                ほとんどお 任せでしたが、かえって余計な時間やお金を使わず 正解でした。
+              ご近所の方からこちらを教えてもらいました。
+              いつもわかりやすく話していただきありがとうございました。
               </p>
             </div>
           </div>
@@ -361,10 +370,11 @@
           <div class="col-md-4 col-sm-6">
             <div class="feedback-thumb">
               <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
-              <h4>税理士事務所様</h4>
-              <h4>会社登記ご依頼</h4>
+              <h4>40歳代・男性</h4>
+              <h4>不動産相続登記・預金手続きご依頼</h4>
               <p class="desc">
-                顧問先の登記をお願いしています。書類などをいつ も手早く確認いただき、大変助かっております。
+              父母が相次いで亡くなり、私は一人っ子で親戚とも遠縁でなかなか信頼して
+              相談できる人がいませんでした。思い切って専門の方にお願いして、ほっとできました。
               </p>
             </div>
           </div>
@@ -373,10 +383,149 @@
           <div class="col-md-4 col-sm-6">
             <div class="feedback-thumb">
               <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
-              <h4>会社法務ご担当者</h4>
+              <h4>30歳代・女性</h4>
+              <h4>不動産売買登記ご依頼</h4>
+              <p class="desc">
+              不動産屋さんを通さずに伯母の不動産を買いました。伯母も安心していました。
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="row"> 
+          <!-- Feedback 7 -->
+          <div class="col-md-4 col-sm-6">
+            <div class="feedback-thumb">
+              <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
+              <h4>40歳代・女性</h4>
+              <h4>不動産財産分与登記ご依頼</h4>
+              <p class="desc">
+              元夫も協力的で手続きも完了したとのこと。
+              自分ひとりでは無理だったと思います。
+              ありがとうございました。
+              </p>
+            </div>
+          </div>
+
+          <!-- Feedback 8 -->
+          <div class="col-md-4 col-sm-6">
+            <div class="feedback-thumb">
+              <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
+              <h4>50歳代・男性</h4>
+              <h4>不動産抵当権抹消登記ご依頼</h4>
+              <p class="desc">
+              ずいぶん前に住宅ローンの返済が終わったのですが忙しくて
+              抵当権の抹消登記をしていませんでした。銀行との連絡や足りない書類
+              の手配などもしていただいて助かりました。
+              </p>
+            </div>
+          </div>
+
+          <!-- Feedback 9 -->
+          <div class="col-md-4 col-sm-6">
+            <div class="feedback-thumb">
+              <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
+              <h4>弁護士事務所様</h4>
+              <h4>不動産登記ご依頼</h4>
+              <p class="desc">
+              調停案などを事前に確認いただけて、こちらとしても安心です。
+              和解の席上で急遽電話確認したこともありました。
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="row"> 
+          <!-- Feedback 10 -->
+          <div class="col-md-4 col-sm-6">
+            <div class="feedback-thumb">
+              <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
+              <h4>税理士事務所様</h4>
+              <h4>不動産登記ご依頼</h4>
+              <p class="desc">
+              顧客に登記の必要があるときにご紹介しています。
+              いい先生でよかった、とみなさん喜ばれています。
+              </p>
+            </div>
+          </div>
+
+          <!-- Feedback 11 -->
+          <div class="col-md-4 col-sm-6">
+            <div class="feedback-thumb">
+              <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
+              <h4>起業家様・20歳代</h4>
+              <h4>会社設立登記ご依頼</h4>
+              <p class="desc">
+              将来も考えて、初めからちゃんとした方にアドバイスをもらえる体制
+              にしました。周りの話を聞くと、自分で適当に登記しなくてほんとよかったです。
+              </p>
+            </div>
+          </div>
+
+          <!-- Feedback 12 -->
+          <div class="col-md-4 col-sm-6">
+            <div class="feedback-thumb">
+              <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
+              <h4>起業家様・40歳代</h4>
+              <h4>会社設立登記ご依頼</h4>
+              <p class="desc">
+              調べる時間、役所に行く時間が無駄と思い、全部お任せでした。楽でした。
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="row"> 
+          <!-- Feedback 13 -->
+          <div class="col-md-4 col-sm-6">
+            <div class="feedback-thumb">
+              <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
+              <h4>税理士事務所様</h4>
               <h4>会社登記ご依頼</h4>
               <p class="desc">
-                定款の変更などはいつも事前に相談させていただ き、株主総会、取締役会にも不安なく臨んでおります。
+              顧問先の登記をお願いしています。いつも手早く進めていただき、
+              助かっております。
+              </p>
+            </div>
+          </div>
+
+          <!-- Feedback 14 -->
+          <div class="col-md-4 col-sm-6">
+            <div class="feedback-thumb">
+              <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
+              <h4>会社法務ご担当者様・50歳代</h4>
+              <h4>会社登記ご依頼</h4>
+              <p class="desc">
+              今期に一部役員の任期が満了、登記が必要だと連絡をいただきました。
+              うっかり忘れていました。定時株主総会の議案に間に合いましたが、
+              冷や汗ものでした。大変ありがとうございました。
+              </p>
+            </div>
+          </div>
+
+          <!-- Feedback 15 -->
+          <div class="col-md-4 col-sm-6">
+            <div class="feedback-thumb">
+              <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
+              <h4>会社経営者様・60歳代</h4>
+              <h4>会社登記ご依頼</h4>
+              <p class="desc">
+              会社立ち上げのときにお世話になったご縁で、今年、
+              役員の任期満了とのご連絡いただきました。
+              私だけが役員なので全く気にもしていませんでした。助かりました。
+              </p>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <!-- Feedback 16 -->
+          <div class="col-md-4 col-sm-6">
+            <div class="feedback-thumb">
+              <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
+              <h4>50歳代・女性</h4>
+              <h4>後見申立ご依頼</h4>
+              <p class="desc">
+              家族のことを他の人にあまり話したくありませんでした。でも、
+              この先生なら相談しても大丈夫かもしれないと思いました。
+              お世話になりました。ありがとうございました。
               </p>
             </div>
           </div>
@@ -392,7 +541,7 @@
           <div class="col-md-8 col-sm-12">
             <div class="personal-wrap">
               <div class="section-title">
-                <h3>個人情報</h3>
+                <h3>個人情報の取扱い</h3>
               </div>
               <div class="col-md-12 personal-detail">
                 <p>
@@ -479,7 +628,7 @@
             <div class="contact-now">
               <div class="contact">
                 <div class="information">
-                  <h5>司法書士法人</h5>
+                  <h5>司法書士</h5>
                   <h3>佐藤淑江事務所</h3>
                 </div>
               </div>
@@ -487,8 +636,8 @@
               <div class="contact">
                 <div class="information">
                   <p>〒225-0024</p>
-                  <p>神奈川県横浜市青葉区市ケ尾町 11533</p>
-                  <p>東急田園都市線「市ヶ尾」駅 西口より徒歩 1 分</p>
+                  <p>1153番地3 第2カブラキビル307</p>
+                  <p>東急田園都市線「市が尾」駅 西口より徒歩 1 分</p>
                 </div>
               </div>
               <!-- Contact Info -->
