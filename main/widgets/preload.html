@@ -1,0 +1,9 @@
+<div class="preloader">
+  <div class="cssload-dots">
+    <div class="cssload-dot"></div>
+    <div class="cssload-dot"></div>
+    <div class="cssload-dot"></div>
+    <div class="cssload-dot"></div>
+    <div class="cssload-dot"></div>
+  </div>
+</div>
