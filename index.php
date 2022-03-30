@@ -216,6 +216,8 @@
         <!-- Section Title -->
         <div class="section-title">
           <h3>当事務所をご利用の主なお客様</h3>
+          <p>主に東京・神奈川の方々が多いですが、エリアは限定しておりませんので、</p>
+          <p>遠方の案件もご依頼いただいております。</p>
         </div>
         <ul class="customersList">
           <!-- Client -->
@@ -265,7 +267,7 @@
               <div class="col-md-4 col-sm-12">
                 <div class="customer-title-box">
                   <label>
-                  法人・団体の方
+                  個人の方
                   </label>
                 </div>
               </div>
@@ -273,16 +275,16 @@
                 <div class="customer-wrap">
                   <div class="col-md-6">
                     <ul>
-                      <li>弁護士事務所様・顧問先様</li>
-                      <li>税理士事務所様・顧問先様</li>
-                      <li>公認会計士事務所様・顧問先様</li>
+                      <li>横浜市青葉区の方々</li>
+                      <li>横浜市都筑区の方々</li>
+                      <li>横浜市全域</li>
                     </ul>
                   </div>
                   <div class="col-md-6">
                     <ul>
-                      <li>一級建築士事務所</li>
-                      <li>司法書士事務所様</li>
-                      <li>東証一部上場企業・関連会社様</li>
+                      <li>川崎市全域</li>
+                      <li>神奈川県全域</li>
+                      <li>東京都全域</li>
                     </ul>
                   </div>
                 </div>
@@ -302,6 +304,8 @@
         <!-- Section Title -->
         <div class="section-title" >
           <h3>お客様の声</h3>
+          <p>これまでにお客様からお寄せ頂いた声です。ありがとうございます。</p>
+          <p>（個人情報に配慮し一部編さんしております。）</p>
         </div>
         <div class="row"> 
           <!-- Feedback 1 -->
@@ -614,7 +618,7 @@
           <p>電話番号：045-978-0294　ＦＡＸ：045-978-0295　</p>
         </div>
         <div class="row">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3246.100310450707!2d139.53802261493598!3d35.55122474469901!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f79afb6266cd%3A0xe27670e0bfd99534!2z5pel5pys44CB44CSMjI1LTAwMjQg56We5aWI5bed55yM5qiq5rWc5biC6Z2S6JGJ5Yy65biC44Kx5bC-55S677yR77yR77yV77yT4oiS77yUIOOCq-ODluODqeOCreODk-ODqw!5e0!3m2!1sja!2sth!4v1647240763537!5m2!1sja!2sth" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3246.104594095377!2d139.537792715121!3d35.55111894470438!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f79ae37c93b9%3A0x83dbbd289380754c!2s1153-3%20Ichigaoch%C5%8D%2C%20Aoba%20Ward%2C%20Yokohama%2C%20Kanagawa%20225-0024%2C%20Japan!5e0!3m2!1sja!2sth!4v1648649917155!5m2!1sja!2sth" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
         </div>
       </div>
     </div>
@@ -636,7 +640,8 @@
               <div class="contact">
                 <div class="information">
                   <p>〒225-0024</p>
-                  <p>1153番地3 第2カブラキビル307</p>
+                  <p>横浜市青葉区市ケ尾町１１５３番地３</p>
+                  <p>第２カブラキビル３０７</p>
                   <p>東急田園都市線「市が尾」駅 西口より徒歩 1 分</p>
                 </div>
               </div>

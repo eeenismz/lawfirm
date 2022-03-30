@@ -403,6 +403,9 @@ small{
 	left: 50%;
 	margin-left: -90px;
 }
+#customer .section-title p{
+  color: #fff;
+}
 #customer .customersList{
   position: relative;
 }
