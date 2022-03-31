@@ -138,7 +138,7 @@
       <div class="container">
         <!-- Section Title -->
         <div class="section-title" >
-          <h3>サービス</h3>
+          <h3>業務内容</h3>
           <p>「司法書士はどんな仕事をしているのですか？」とのお声をよくいただきます。</p>
           <p>当事務所で取り扱っている業務の一部をご紹介します。</p>
           <p>（司法書士法その他の法律において司法書士が取り扱うことができる業務です）</p>
@@ -215,7 +215,7 @@
         
         <!-- Section Title -->
         <div class="section-title">
-          <h3>当事務所をご利用の主なお客様</h3>
+          <h3>当事務所をご利用のお客様</h3>
           <p>主に東京・神奈川の方々が多いですが、エリアは限定しておりませんので、</p>
           <p>遠方の案件もご依頼いただいております。</p>
         </div>
@@ -246,7 +246,7 @@
                   </div>
                   <div class="col-md-6">
                     <ul>
-                      <li>一級建築士事務所</li>
+                      <li>一級建築士事務所様・顧問先様</li>
                       <li>司法書士事務所様</li>
                       <li>東証一部上場企業・関連会社様</li>
                       <li>中小企業様</li>
@@ -312,7 +312,7 @@
           <div class="col-md-4 col-sm-6">
             <div class="feedback-thumb">
               <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
-              <h4>60歳代・男性</h4>
+              <h4>60歳代</h4>
               <h4>不動産相続登記・預金手続きご依頼</h4>
               <p class="desc">
               当初、長男として全部自分で手続しようと思っていましたが、
@@ -329,7 +329,7 @@
           <div class="col-md-4 col-sm-6">
             <div class="feedback-thumb">
               <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
-              <h4>80歳代・女性</h4>
+              <h4>80歳代</h4>
               <h4>不動産相続登記・預金手続きご依頼</h4>
               <p class="desc">
               主人が亡くなりましたが、私たちには子供がおらず、どのように
@@ -345,7 +345,7 @@
           <div class="col-md-4 col-sm-6">
             <div class="feedback-thumb">
               <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
-              <h4>90歳代・男性</h4>
+              <h4>90歳代</h4>
               <h4>遺言のご相談</h4>
               <p class="desc">
               長年のもやもやしたものが晴れ、心より感謝申し上げます。
@@ -361,7 +361,7 @@
           <div class="col-md-4 col-sm-6">
             <div class="feedback-thumb">
               <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
-              <h4>70歳代・女性</h4>
+              <h4>70歳代</h4>
               <h4>不動産相続登記ご依頼</h4>
               <p class="desc">
               ご近所の方からこちらを教えてもらいました。
@@ -374,7 +374,7 @@
           <div class="col-md-4 col-sm-6">
             <div class="feedback-thumb">
               <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
-              <h4>40歳代・男性</h4>
+              <h4>40歳代</h4>
               <h4>不動産相続登記・預金手続きご依頼</h4>
               <p class="desc">
               父母が相次いで亡くなり、私は一人っ子で親戚とも遠縁でなかなか信頼して
@@ -387,7 +387,7 @@
           <div class="col-md-4 col-sm-6">
             <div class="feedback-thumb">
               <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
-              <h4>30歳代・女性</h4>
+              <h4>30歳代</h4>
               <h4>不動産売買登記ご依頼</h4>
               <p class="desc">
               不動産屋さんを通さずに伯母の不動産を買いました。伯母も安心していました。
@@ -401,7 +401,7 @@
           <div class="col-md-4 col-sm-6">
             <div class="feedback-thumb">
               <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
-              <h4>40歳代・女性</h4>
+              <h4>40歳代</h4>
               <h4>不動産財産分与登記ご依頼</h4>
               <p class="desc">
               元夫も協力的で手続きも完了したとのこと。
@@ -415,7 +415,7 @@
           <div class="col-md-4 col-sm-6">
             <div class="feedback-thumb">
               <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
-              <h4>50歳代・男性</h4>
+              <h4>50歳代</h4>
               <h4>不動産抵当権抹消登記ご依頼</h4>
               <p class="desc">
               ずいぶん前に住宅ローンの返済が終わったのですが忙しくて
@@ -524,7 +524,7 @@
           <div class="col-md-4 col-sm-6">
             <div class="feedback-thumb">
               <div class="thumb-icon"><i class="fa fa-user" aria-hidden="true"></i></div>
-              <h4>50歳代・女性</h4>
+              <h4>50歳代</h4>
               <h4>後見申立ご依頼</h4>
               <p class="desc">
               家族のことを他の人にあまり話したくありませんでした。でも、
