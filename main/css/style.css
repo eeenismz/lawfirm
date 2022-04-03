@@ -170,6 +170,7 @@ a:hover, a:active, a:focus {
 .section-title p {
 	max-width: 800px;
 	margin: auto;
+	position: relative;
 }
 .parallax-section {
 	padding: 70px 0;
@@ -1056,7 +1057,7 @@ background-color:#ff0000;
 **********************************************/
 .tp-banner-container {
 	position: relative;
-z-index:;
+/* z-index:; */
 	padding: 0;
 	width: 100%;
 }
